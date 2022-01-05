@@ -1,0 +1,8 @@
+# Translator
+
+---
+
+
+### Libraries:
+
+flask
