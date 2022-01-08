@@ -1,7 +1,5 @@
 # About repository
 
----
-
 This repository presents my projects for the first semester.
 
 ## The list of works and the folders in which they are contained
@@ -17,6 +15,6 @@ This repository presents my projects for the first semester.
 * Schedule telegram-bot
 > telegram-bot
 * UI-schedule
-> schedule
+> UI-schedule
 * Translator
 > translator

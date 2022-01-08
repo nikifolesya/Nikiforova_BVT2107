@@ -1,4 +1,4 @@
-# Telegram-bot
+# Simple telegram-bot
 
 ---
 
