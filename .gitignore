@@ -4,3 +4,4 @@ Simple-bot/venv
 telegram-bot/venv
 translator/venv
 UI-schedule/venv
+/.idea
