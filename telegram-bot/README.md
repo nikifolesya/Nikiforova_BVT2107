@@ -1,12 +1,9 @@
 # Schedule telegram-bot
 
----
-
 ### Libraries:
 
 1. telebot
 2. psycopg2
-3. requests
 
 ---
 

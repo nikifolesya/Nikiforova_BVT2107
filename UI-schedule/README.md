@@ -1,12 +1,9 @@
 # UI-Schedule
 
----
-
 ### Libraries:
 
 1. PyQt5
 2. Psycopg2
-3. requests
 
 ---
 

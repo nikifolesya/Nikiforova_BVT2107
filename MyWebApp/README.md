@@ -1,7 +1,5 @@
 # Flask and database
 
----
-
 ### Libraries:
 
 1. flask 

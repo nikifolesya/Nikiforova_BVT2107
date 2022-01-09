@@ -1,7 +1,5 @@
 # Calculator
 
----
-
 ### Libraries:
 
 PyQt5
