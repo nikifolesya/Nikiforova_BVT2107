@@ -1,6 +1,6 @@
 # Simple telegram-bot
 
-![Alt text](./images/simple-bot.png?raw=true "Title")
+![Alt text](https://github.com/nikifolesya/Nikiforova_BVT2107/blob/master/images/simple-bot.png)
 
 ### Libraries:
 
