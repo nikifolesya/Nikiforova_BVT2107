@@ -1,5 +1,7 @@
 # UI-Schedule
 
+![alt text](https://github.com/nikifolesya/Nikiforova_BVT2107/blob/master/images/ui-schedule.jpg)
+
 ### Libraries:
 
 1. PyQt5

@@ -1,5 +1,7 @@
 # Schedule telegram-bot
 
+![alt text](https://github.com/nikifolesya/Nikiforova_BVT2107/blob/master/images/telegram-bot.png)
+
 ### Libraries:
 
 1. telebot

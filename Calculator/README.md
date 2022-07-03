@@ -1,5 +1,7 @@
 # Calculator
 
+![alt text](https://github.com/nikifolesya/Nikiforova_BVT2107/blob/master/images/calculator.png)
+
 ### Libraries:
 
 PyQt5
