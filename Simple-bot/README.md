@@ -1,5 +1,7 @@
 # Simple telegram-bot
 
+![Alt text](./images/simple-bot.png?raw=true "Title")
+
 ### Libraries:
 
 telebot
